@@ -32,7 +32,7 @@ Thank you for reading and have a nice day!😊</h2>
 
 ### My current stack and goals:
 
-![sefas techstack](https://github.com/9Sefa9/9Sefa9/blob/main/images/techstack.png)](https://9Sefa9.github.io/)
+[![sefas techstack](https://github.com/9Sefa9/9Sefa9/blob/main/images/techstack.png)](https://9Sefa9.github.io/)
 
 ### Statistics
 
