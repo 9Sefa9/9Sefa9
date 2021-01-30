@@ -3,28 +3,34 @@
 <p align='center'>
 
 <a href="https://github.com/9Sefa9" target="_blank"><img id="github" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/github.svg" width="90px" height="90px"></a>
-
+&nbsp;&nbsp;
 <a href="https://instagram.com/sefa_gc" target="_blank"><img id="instagram" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/instagram.svg" width="90px" height="100px"></a>
-
+&nbsp;&nbsp;
 <a href="http://sourberrygames.bplaced.net/" target="_blank"><img id="sourberrygames" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/sourberrygames.png" width="100px" height="100px"></a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sefa-g%C3%B6vercin-b95b17111/" target="_blank"><img id="linkedind" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/linkedin.svg" width="90px" height="90px"></a>
-
+&nbsp;&nbsp;
 <a href="https://www.xing.com/profile/Sefa_Goevercin" target="_blank"><img id="xing" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/xing.svg" width="90px" height="90px"></a>
-
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/sefa.goevercin/" target="_blank"><img id="facebook" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/facebook.svg" width="90px" height="90px"></a>
 
 </p>
 
 <h2 align="center">Hey! My name is Sefa. 🤓</h2>
+
+<p align="center">My name is Sefa Gövercin, and I’m a recent computer science graduate from University Duisburg-Essen👨‍🎓.
+Developing applications is one of my passion and inspires me to learn more technologies.
+I develope mobile games in my free time and created an indie-game development team in 2017
+called Sourberry Games.At that moment it was an awesome experience to keep in one hand
+the responsibility as a leader and in the other hand to communicate with skilled developers remotely.
+This path showed me other aspects of creating applications especially for mobile.
+I speak Java fluently but got basic knowledges in similar programming languages like C, C++, C#.
+I started in August 2020 with learning fundamentals in front-end technologies e.g. HTML, CSS, JavaScript.
+My goal is to learn programming languages that fits to a Full-Stack and are mostly used in industries(for example MERN).
+I spend my time with watching anime, playing guitar and listening to various music directions for example LoFi, ChillHop and/or Rainy Jazz, 1 Hour anime music.<br> that's it !! <br>
+Thank you for reading and have a nice day!😊</p>
+
 <!--
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article on one of my blog(or company blog), watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects(my own and my clients) while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or watching anime</p>
-
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
-
 ### 📰 Blog Posts
 
 BLOG-POST-LIST:START
