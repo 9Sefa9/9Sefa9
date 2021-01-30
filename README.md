@@ -1,7 +1,7 @@
 ## [![sefas header](https://github.com/9Sefa9/9Sefa9/blob/master/images/HEADER.png)](https://9Sefa9.github.io/)
 
 <p align='center'>
-<div class="references-grid-container" style="display:flex;">
+<div>
     <div class="github">
         <a href="https://github.com/9Sefa9" target="_blank"><img id="github" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/github.svg" width="90px" height="90px"></a>
     </div>
