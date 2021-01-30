@@ -1,7 +1,8 @@
-## [![sefas header](https://github.com/9Sefa9/9Sefa9/blob/master/images/HEADER.png)](https://9Sefa9.github.io/)
+## [![sefas header](https://github.com/9Sefa9/9Sefa9/blob/main/images/HEADER.png)](https://9Sefa9.github.io/)
 
 <p align='center'>
-<div>
+<div class="container" style="display:flex;">
+<div class="references-grid-container" style="flex-direction:row;">
     <div class="github">
         <a href="https://github.com/9Sefa9" target="_blank"><img id="github" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/github.svg" width="90px" height="90px"></a>
     </div>
@@ -20,6 +21,7 @@
     <div class="facebook">
         <a href="https://www.facebook.com/sefa.goevercin/" target="_blank"><img id="facebook" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/facebook.svg" width="90px" height="90px"></a>
     </div>
+</div>
 </div>
 </p>
 
