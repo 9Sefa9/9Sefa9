@@ -3,22 +3,22 @@
 <p align='center'>
 <div class="references-grid-container" style="display:flex;">
     <div class="github">
-        <a href="https://github.com/9Sefa9" target="_blank"><img id="github" src="https://github.com/9Sefa9/9Sefa9/blob/master/images/github.svg" width="90px" height="90px"></a>
+        <a href="https://github.com/9Sefa9" target="_blank"><img id="github" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/github.svg" width="90px" height="90px"></a>
     </div>
     <div class="instagram">
-        <a href="https://instagram.com/sefa_gc" target="_blank"><img id="instagram" src="https://github.com/9Sefa9/9Sefa9/blob/master/images/instagram.svg" width="90px" height="100px"></a>
+        <a href="https://instagram.com/sefa_gc" target="_blank"><img id="instagram" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/instagram.svg" width="90px" height="100px"></a>
     </div>
     <div class="sourberrygames">
-        <a href="http://sourberrygames.bplaced.net/" target="_blank"><img id="sourberrygames" src="https://github.com/9Sefa9/9Sefa9/blob/master/images/sourberrygames.png" width="100px" height="100px"></a>
+        <a href="http://sourberrygames.bplaced.net/" target="_blank"><img id="sourberrygames" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/sourberrygames.png" width="100px" height="100px"></a>
     </div>
     <div class="linkedin">
-        <a href="https://www.linkedin.com/in/sefa-g%C3%B6vercin-b95b17111/" target="_blank"><img id="linkedind" src="https://github.com/9Sefa9/9Sefa9/blob/master/images/images/linkedin.svg" width="90px" height="90px"></a>
+        <a href="https://www.linkedin.com/in/sefa-g%C3%B6vercin-b95b17111/" target="_blank"><img id="linkedind" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/linkedin.svg" width="90px" height="90px"></a>
     </div>
     <div class="xing">
-        <a href="https://www.xing.com/profile/Sefa_Goevercin" target="_blank"><img id="xing" src="https://github.com/9Sefa9/9Sefa9/blob/master/images/xing.svg" width="90px" height="90px"></a>
+        <a href="https://www.xing.com/profile/Sefa_Goevercin" target="_blank"><img id="xing" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/xing.svg" width="90px" height="90px"></a>
     </div>
     <div class="facebook">
-        <a href="https://www.facebook.com/sefa.goevercin/" target="_blank"><img id="facebook" src="https://github.com/9Sefa9/9Sefa9/blob/master/images/facebook.svg" width="90px" height="90px"></a>
+        <a href="https://www.facebook.com/sefa.goevercin/" target="_blank"><img id="facebook" src="https://github.com/9Sefa9/9Sefa9/blob/main/images/facebook.svg" width="90px" height="90px"></a>
     </div>
 </div>
 </p>
