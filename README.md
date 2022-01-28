@@ -42,6 +42,7 @@ Thank you for reading and have a nice day!😊</h2>
 
 ![Sefa's stats](https://github-readme-stats.vercel.app/api?username=9Sefa9)
 
+![Profile views](https://komarev.com/ghpvc/?username=9Sefa9&color=green)
 - Icons reserved by flaticon.com - All rights reserved
 
 <!--
