@@ -16,20 +16,6 @@
 
 </p>
 
-<h1 align="center">Hey! My name is Sefa. 🤓</h1>
-
-<h2 align="center">My name is Sefa Gövercin, and I’m a recent computer science graduate from University Duisburg-Essen👨‍🎓.
-Developing applications is one of my passion and inspires me to learn more technologies.
-I develope mobile games in my free time and created an indie-game development team in 2017
-called Sourberry Games. At that moment it was an awesome experience to keep in one hand
-the responsibility as a leader and in the other hand to communicate with skilled developers remotely😎.
-This path showed me other aspects of creating applications especially for mobile.
-I speak Java fluently but got basic knowledges in similar programming languages like C, C++, C#🔀.
-I started in August 2020 with learning fundamentals in front-end technologies e.g. HTML, CSS, JavaScript😍.
-My goal is to learn programming languages that fits to a Full-Stack and are mostly used in industries(for example MERN).
-I also spend my time with watching anime, playing guitar and listening to various music directions for example LoFi, ChillHop and/or Rainy Jazz, 1 Hour anime music🎵.<br><br>that's it !!<br><br>
-Thank you for reading and have a nice day!😊</h2>
-
 ### My current stack and goals:
 
 [![sefas techstack](https://github.com/9Sefa9/9Sefa9/blob/main/images/techstack.png)]()
